@@ -4,7 +4,7 @@ function App() {
   const produtos = [
     {
         id: 1,
-        nome: 'Maçã muito bonita',
+        nome: 'Maçã muito bonito',
         preco: 'R$ 79,80',
         estoque: 12
     },
